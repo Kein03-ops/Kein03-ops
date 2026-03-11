@@ -104,24 +104,27 @@ I enjoy building projects that combine **technology, creativity, and fun**.
 ---
 
 <p align="center">
+# ⭐ Explore My Projects
 
-⭐ Explore my repositories ⭐
+<p align="center">
 
+<a href="https://github.com/YOURUSERNAME?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Repos-Click%20Here-blue?style=for-the-badge&logo=github" />
+</a>
 
+<a href="https://github.com/YOURUSERNAME/FlutterProject1" target="_blank">
+  <img src="https://img.shields.io/badge/Flutter%20App-View%20Repo-purple?style=for-the-badge&logo=flutter" />
+</a>
+
+<a href="https://github.com/YOURUSERNAME/WebProject1" target="_blank">
+  <img src="https://img.shields.io/badge/Web%20Project-View%20Repo-green?style=for-the-badge&logo=html5" />
+</a>
+
+<a href="https://github.com/YOURUSERNAME/CallOfDutyClone" target="_blank">
+  <img src="https://img.shields.io/badge/Gaming%20Project-View%20Repo-red?style=for-the-badge&logo=unity" />
+</a>
 
 </p>
-
-[<img align="left" width="390" alt="My GitHub stats" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822f570/raw/general.svg">](#)
-[<img align="right" width="390" alt="My recent activity" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822f570/raw/medias.svg">](#)
-[<img align="right" width="390" height="80" alt="Learning journey" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822f570/raw/placeholder.svg">](#)
-
-[<img align="left" width="390" alt="Support my learning" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822f570/raw/sponsors.svg">](#)
-[<img align="right" width="390" alt="Beginner achievements" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822f570/raw/achievements.svg">](#)
-
-[<img width="100%" height="1" alt="separator" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822f570/raw/placeholder.svg">](#)
-
-[<img align="right" alt="coding" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
-
 ## 👋 Hi, I'm [Your Name] – a beginner developer
 
 I'm currently learning:
