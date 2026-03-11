@@ -1,17 +1,17 @@
 <!-- JJK × BERSERK × CLASSROOM OF THE ELITE THEMED README -->
-<!-- UPDATED WITH RELIABLE GIF LINKS (GIPHY + TENOR) -->
+<!-- USING YOUR CUSTOM GIF LINKS -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J0YmtuanRqNmJ1NndsaTk5NG45eTlqZG0yczdvdTc4dDFxN2J5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/p4w0AMZJa2EtG/giphy.gif" alt="Gojo Satoru - Domain Expansion" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PzmwZmvqZA191oqu3L/giphy.gif" alt="JJK Banner" width="100%"/>
 </p>
 
 <h1 align="center">👑 WELCOME TO MY DOMAIN 👑</h1>
 <h3 align="center">Jujutsu Sorcerer × Berserk Struggler × Elite Strategist · Student Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PzmwZmvqZA191oqu3L/giphy.gif" width="200" style="border-radius: 10px;"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9wYWFyc2txdHdrNjAwNjZnZG95MTh4ZTFkYWpzdjZ2azZ3cWM0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K4rDu65eHSsNO/giphy.gif" width="200" style="border-radius: 10px;"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9wYWFyc2txdHdrNjAwNjZnZG95MTh4ZTFkYWpzdjZ2azZ3cWM0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fY0H0Zr5ybY1Yp2aU6/giphy.gif" width="200" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSoDr54W9M3uSBiTST/giphy.gif" width="200" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3NGZqNmozOGF1YW12NThvOWpmM21qazZ5eXQwdm10ZnY4dHlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="200" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB1anl2a283bjZpbWh0ZzJwMmI4bWJuNW9rZDdrNXIzbzZicHhiZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ispEc1253326c/giphy.gif" width="200" style="border-radius: 10px;"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## 🧙‍♂️ JUJUTSU KAISEN · My Cursed Techniques
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx6aG10YXlwZDRub2ZvM3N4cjVneG1saDc2MnozNHJ2bTRwdmYybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IyBceuaJloJm9mQopl/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PzmwZmvqZA191oqu3L/giphy.gif" width="300"/>
 </p>
 
 As a Jujutsu Sorcerer (developer), the cursed techniques I wield:
@@ -38,9 +38,9 @@ As a Jujutsu Sorcerer (developer), the cursed techniques I wield:
 | HTML/CSS | Grade 2 🎨 |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg0dGNrNm9ndjZxczY3MTF2ZjVibXAyYWJzNGh1anNwYXhyYzNrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Nanami Kento - Overtime Sorcerer" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSoDr54W9M3uSBiTST/giphy.gif" alt="Gojo" width="400"/>
   <br/>
-  <em>“Work is shit.” – Kento Nanami (my mood)</em>
+  <em>“Throughout Heaven and Earth, I alone am the honored one.” – Gojo Satoru</em>
 </p>
 
 ---
@@ -48,7 +48,7 @@ As a Jujutsu Sorcerer (developer), the cursed techniques I wield:
 ## ⚔️ BERSERK · My Struggle
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3NGZqNmozOGF1YW12NThvOWpmM21qazZ5eXQwdm10ZnY4dHlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3NGZqNmozOGF1YW12NThvOWpmM21qazZ5eXQwdm10ZnY4dHlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkRApEeHSBlOU/giphy.gif" width="300"/>
 </p>
 
 Like Guts, I swing my sword through the world of code:
@@ -58,9 +58,9 @@ Like Guts, I swing my sword through the world of code:
 - 👁️ **The Brand** – Permanently scarred by Stack Overflow
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3NGZqNmozOGF1YW12NThvOWpmM21qazZ5eXQwdm10ZnY4dHlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pzaXgyOHo2b29wbWQ2eTBoYjExa2lwaGJyMDFpMnhoZDFkNDVwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y6aDJi4UcT2ow/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3NGZqNmozOGF1YW12NThvOWpmM21qazZ5eXQwdm10ZnY4dHlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkRApEeHSBlOU/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@ Like Guts, I swing my sword through the world of code:
 ## 📚 CLASSROOM OF THE ELITE · My Strategies
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB1anl2a283bjZpbWh0ZzJwMmI4bWJuNW9rZDdrNXIzbzZicHhiZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ispEc1253326c/giphy.gif" width="300"/>
 </p>
 
 Like Ayanokōji, I calculate everything behind the scenes:
@@ -78,9 +78,9 @@ Like Ayanokōji, I calculate everything behind the scenes:
 - 📈 **S-System** – Every commit earns S-points
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB1anl2a283bjZpbWh0ZzJwMmI4bWJuNW9rZDdrNXIzbzZicHhiZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ispEc1253326c/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pzaXgyOHo2b29wbWQ2eTBoYjExa2lwaGJyMDFpMnhoZDFkNDVwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y6aDJi4UcT2ow/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3NGZqNmozOGF1YW12NThvOWpmM21qazZ5eXQwdm10ZnY4dHlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -104,21 +104,21 @@ Like Ayanokōji, I calculate everything behind the scenes:
 > A Jujutsu Kaisen encyclopedia with character profiles and techniques.
 > *Cursed Technique: Flutter, Dart, Jujutsu API*
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PzmwZmvqZA191oqu3L/giphy.gif" width="250"/>
 </p>
 
 ### 🗡️ [Berserker Armor - C# Game]
 > A 2D action game based on Berserk.
 > *Equipment: C#, Unity, Blood of the Berserker*
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3NGZqNmozOGF1YW12NThvOWpmM21qazZ5eXQwdm10ZnY4dHlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 </p>
 
 ### 🧠 [The Elite - Java Backend]
 > A student management system simulating the Advanced Nurturing High School.
 > *Strategy: Java Spring Boot, PostgreSQL, Psychological warfare*
 <p align="center">
-  <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB1anl2a283bjZpbWh0ZzJwMmI4bWJuNW9rZDdrNXIzbzZicHhiZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ispEc1253326c/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -133,21 +133,8 @@ Like Ayanokōji, I calculate everything behind the scenes:
 </p>
 
 ---
-
-## ⚠️ INSTRUCTIONS · How to Customize
-
-1. **Replace username**: Change all `YOUR_GITHUB_USERNAME` to your actual GitHub username.
-2. **Replace social links**: Update `yourhandle`, `yourprofile`, `youremail@example.com`.
-3. **GIFs not loading?** If any GIF doesn't show, right-click on the broken image, open in new tab – if it's a dead link, replace it with a fresh one from [GIPHY](https://giphy.com/search/jujutsu-kaisen) or [Tenor](https://tenor.com/search/jujutsu-kaisen-gifs). Or download your favorite GIFs and host them in your repo (see below).
-4. **Host GIFs yourself** (most reliable):
-   - Create an `assets` folder in your repo.
-   - Download GIFs (e.g., from GIPHY) and place them inside `assets/`.
-   - Replace the URLs with `./assets/your-gif.gif`.
-
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3NGZqNmozOGF1YW12NThvOWpmM21qazZ5eXQwdm10ZnY4dHlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
 </p>
 
 <p align="center">
@@ -156,7 +143,7 @@ Like Ayanokōji, I calculate everything behind the scenes:
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSoDr54W9M3uSBiTST/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3NGZqNmozOGF1YW12NThvOWpmM21qazZ5eXQwdm10ZnY4dHlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkRApEeHSBlOU/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pzaXgyOHo2b29wbWQ2eTBoYjExa2lwaGJyMDFpMnhoZDFkNDVwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y6aDJi4UcT2ow/giphy.gif" width="150"/>
 </p>
