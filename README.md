@@ -44,8 +44,7 @@ Whether you're a **Saiyan** coder or just starting your **Genin** journey, you'l
 ## 🚀 Code Snippets from Different Worlds
 
 ### 🌙 C# – *Sailor Moon Style*
-
-```csharp
+`csharp
 // Transform like Sailor Moon!
 public class SailorGuardian {
     public string Name { get; set; }
