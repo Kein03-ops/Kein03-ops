@@ -1,152 +1,68 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0f0f,100:aa00ff&height=200&section=header&text=Joseph%20Kein&fontSize=55&fontColor=00ffaa&animation=glitch"/>
-</p>
-<h1 align="center">👋 Welcome to My Developer World</h1>
+<h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 Joseph Kein! 💠</h1>
+<div align="center">
+  <img width="720" height="auto" src="Add-ons/FSN.gif">
+</div>
 
-<p align="center">
-🎮 Gamer | 🎌 Anime Lover | 💻 Software Developer
-</p>
+<br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSoDr54W9M3uSBiTST/giphy.gif" alt="Anime GIF" />
-</p>
----
+<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
-# 🌌 About Me
+<ul>
+  <li> 📺 Currently watching <b>A LOT OF ANIME</b></li>
+  <li> 🔭 I’m currently working on <b>HTML, CSS, Flutter, C#</b></li>
+  <li> 🎮 I’m currently playing <b>Call of Duty Mobile</b> or <b>Mobile Legends</b></li>
+  <li> 🤔 I’m looking for help with <b>Mobile & Web Development Projects</b></li>
+  <li> 📫 How to reach me: <b>keinjoseph65@gmail.com</b></li>
+</ul>
 
-```yaml
-Name: Joseph Kein
-Location: Earth 🌍
-Focus: Mobile + Web Development
-Hobbies: Gaming 🎮 | Anime 🎌 | Coding 💻
-Goal: Become a top software engineer
-```
+<div align="center">
+    <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
+    <a href="https://open.spotify.com/user/1ecl2g5fu3hgbdnees4dt53ct?si=ce25b550ed6f46d0%3F_authfailed%3D1&nd=1"><img width="720" height="auto" src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE" alt="Joseph's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
+</div>
 
-I enjoy building projects that combine **technology, creativity, and fun**.
+<br>
 
----
+<h1 align="center">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
+<div align="center">
+  <p align="center">Entry-level developer with skills in Web & Mobile Dev, passionate about anime, gaming, and creating projects using HTML, CSS, Flutter, and C#.</p>
+  <p align="center">
+    <img style="margin: 5px" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" height="30" />
+  </p>
+  <img src="Add-ons/AS.gif" width="460px" height="auto" align="center">
+</div>
 
-# 🚀 Tech Stack
+<br>
 
-<p align="center">
+<h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats" /></a> 
+</div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&hide_border=true" /></a>
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,flutter,cs,git,github,vscode"/>
+<br>
 
-</p>
+<h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/keinjoseph65/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://github.com/YOURUSERNAME">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://discord.gg/Hatman77#8963">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <br>
+  <img src="Add-ons/SAO_K.gif" width="400" height="auto">
+</div>
 
----
+<h1 align="center"></h1>
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🎮 Interests
-
-- Anime
-- Gaming
-- Mobile Apps
-- Web Development
-- Building creative projects
-
----
-
-# 📂 Featured Projects
-
-🚀 Coming soon…
-
-- Flutter Apps
-- Web Projects
-- Game Ideas
-- Open Source Contributions
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue"/>
-
-</p>
-
----
-
-# ⚡ Quote
-
-> “Code is like anime battles — strategy, creativity, and execution.”
-
----
-
-<p align="center">
-# ⭐ Explore My Projects
-
-<p align="center">
-
-<a href="https://github.com/YOURUSERNAME?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Repos-Click%20Here-blue?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://github.com/YOURUSERNAME/FlutterProject1" target="_blank">
-  <img src="https://img.shields.io/badge/Flutter%20App-View%20Repo-purple?style=for-the-badge&logo=flutter" />
-</a>
-
-<a href="https://github.com/YOURUSERNAME/WebProject1" target="_blank">
-  <img src="https://img.shields.io/badge/Web%20Project-View%20Repo-green?style=for-the-badge&logo=html5" />
-</a>
-
-<a href="https://github.com/YOURUSERNAME/CallOfDutyClone" target="_blank">
-  <img src="https://img.shields.io/badge/Gaming%20Project-View%20Repo-red?style=for-the-badge&logo=unity" />
-</a>
-
-</p>
-## 👋 Hi, I'm [Your Name] – a beginner developer
-
-I'm currently learning:
-
-- 💻 **C#** – building simple console apps  
-- 📱 **Flutter** – experimenting with cross-platform UIs  
-- 🌐 **HTML & CSS** – creating my first web pages  
-- 🚀 **Node.js** – dipping my toes into backend JavaScript  
-
-I just started my coding journey, and this profile will grow with me. Every commit is a step forward!
-
----
-
-### 📌 What I'm working on
-
-- A to-do list app in **C#**  
-- A personal portfolio with **HTML/CSS**  
-- A simple weather app in **Flutter**  
-- A basic **Node.js** REST API  
-
-Stay tuned – more projects coming soon!
-
----
-
-*Stats and achievements will automatically update once I set up the metrics. For now, this placeholder reminds me to keep coding!*
+[![@Joseph Kein's Holopin board](https://holopin.me/j0shbl0ck)](https://holopin.io/@j0shbl0ck)
