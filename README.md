@@ -13,7 +13,7 @@
 ---
 
 # 🌌 About Me
-
+<img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSoDr54W9M3uSBiTST/giphy.gif/>
 ```yaml
 Name: ORIGINO
 Location: Earth 🌍
