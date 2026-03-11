@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Joseph%20Kein&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">👋 Welcome to My Developer World</h1>
+<h1 align="center"> ⚔️ Devの世界へようこそ ⚔️ h1>
 
 <p align="center">
 🎮 Gamer | 🎌 Anime Lover | 💻 Software Developer
@@ -15,9 +15,9 @@
 # 🌌 About Me
 
 ```yaml
-Name: Joseph Kein
+Name: ORIGINO
 Location: Earth 🌍
-Focus: Mobile + Web Development
+Focus: Mobile + Web Development + Web Dev
 Hobbies: Gaming 🎮 | Anime 🎌 | Coding 💻
 Goal: Become a top software engineer
 ```
