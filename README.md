@@ -1,17 +1,17 @@
 <!-- JJK × BERSERK × CLASSROOM OF THE ELITE THEMED README -->
-<!-- COPY AND PASTE THIS ENTIRE BLOCK INTO YOUR README.md -->
+<!-- UPDATED WITH RELIABLE GIF LINKS (GIPHY + TENOR) -->
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/-rVq3v6C5cAAAAAC/gojo-satoru-jjk.gif" alt="Gojo Satoru - Domain Expansion" width="100%"/>
+  <img src="https://media.giphy.com/media/5xtDarIY2F4ZfA9R12c/giphy.gif" alt="Gojo Satoru - Domain Expansion" width="100%"/>
 </p>
 
 <h1 align="center">👑 WELCOME TO MY DOMAIN 👑</h1>
 <h3 align="center">Jujutsu Sorcerer × Berserk Struggler × Elite Strategist · Student Developer</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/9wEfU9nVUfUAAAAC/sukuna-jjk.gif" width="200" style="border-radius: 10px;"/>
-  <img src="https://media1.tenor.com/m/8KGI217gJ-sAAAAC/guts-berserk.gif" width="200" style="border-radius: 10px;"/>
-  <img src="https://media1.tenor.com/m/0B7lP0C-Fn8AAAAC/ayanokoji-kiyotaka-classroom-of-the-elite.gif" width="200" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="200" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="200" style="border-radius: 10px;"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## 🧙‍♂️ JUJUTSU KAISEN · My Cursed Techniques
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/cRrD0b-GvQcAAAAC/jjk-sukuna.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="300"/>
 </p>
 
 As a Jujutsu Sorcerer (developer), the cursed techniques I wield:
@@ -38,7 +38,7 @@ As a Jujutsu Sorcerer (developer), the cursed techniques I wield:
 | HTML/CSS | Grade 2 🎨 |
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/8S7rZR_7jAQAAAAC/nanami-kenji.gif" alt="Nanami Kento - Overtime Sorcerer" width="400"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Nanami Kento - Overtime Sorcerer" width="400"/>
   <br/>
   <em>“Work is shit.” – Kento Nanami (my mood)</em>
 </p>
@@ -48,7 +48,7 @@ As a Jujutsu Sorcerer (developer), the cursed techniques I wield:
 ## ⚔️ BERSERK · My Struggle
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/s0x9lUJ-AA4AAAAC/guts-berserk-2016.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="300"/>
 </p>
 
 Like Guts, I swing my sword through the world of code:
@@ -58,9 +58,9 @@ Like Guts, I swing my sword through the world of code:
 - 👁️ **The Brand** – Permanently scarred by Stack Overflow
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/9wEfU9nVUfUAAAAC/sukuna-jjk.gif" width="200"/>
-  <img src="https://media1.tenor.com/m/FxG5Yd_10QsAAAAC/guts-guts-berserk.gif" width="200"/>
-  <img src="https://media1.tenor.com/m/wD9KJxln_DUAAAAC/griffith-berserk.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@ Like Guts, I swing my sword through the world of code:
 ## 📚 CLASSROOM OF THE ELITE · My Strategies
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/0B7lP0C-Fn8AAAAC/ayanokoji-kiyotaka-classroom-of-the-elite.gif" width="300"/>
+  <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="300"/>
 </p>
 
 Like Ayanokōji, I calculate everything behind the scenes:
@@ -78,9 +78,9 @@ Like Ayanokōji, I calculate everything behind the scenes:
 - 📈 **S-System** – Every commit earns S-points
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/bB8s4C1nNs8AAAAC/horikita-suzune.gif" width="200"/>
-  <img src="https://media1.tenor.com/m/kzOBN82T0wYAAAAC/classroom-of-the-elite-ayanokoji.gif" width="200"/>
-  <img src="https://media1.tenor.com/m/pQfJq87M-1IAAAAC/classroom-of-the-elite-ichinose.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -104,21 +104,21 @@ Like Ayanokōji, I calculate everything behind the scenes:
 > A Jujutsu Kaisen encyclopedia with character profiles and techniques.
 > *Cursed Technique: Flutter, Dart, Jujutsu API*
 <p align="center">
-  <img src="https://media1.tenor.com/m/2w_9oP7R4-8AAAAC/gojo-anime.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="250"/>
 </p>
 
 ### 🗡️ [Berserker Armor - C# Game]
 > A 2D action game based on Berserk.
 > *Equipment: C#, Unity, Blood of the Berserker*
 <p align="center">
-  <img src="https://media1.tenor.com/m/FxG5Yd_10QsAAAAC/guts-guts-berserk.gif" width="250"/>
+  <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="250"/>
 </p>
 
 ### 🧠 [The Elite - Java Backend]
 > A student management system simulating the Advanced Nurturing High School.
 > *Strategy: Java Spring Boot, PostgreSQL, Psychological warfare*
 <p align="center">
-  <img src="https://media1.tenor.com/m/bB8s4C1nNs8AAAAC/horikita-suzune.gif" width="250"/>
+  <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -137,14 +137,17 @@ Like Ayanokōji, I calculate everything behind the scenes:
 ## ⚠️ INSTRUCTIONS · How to Customize
 
 1. **Replace username**: Change all `YOUR_GITHUB_USERNAME` to your actual GitHub username.
-2. **Replace social links**: Update `yourhandle`, `yourprofile`, `youremail@example.com` with your details.
-3. **GIFs**: The GIFs are already embedded from Tenor (JJK, Berserk, Classroom of the Elite). If you want to change any, go to [Tenor](https://tenor.com) and search for `jjk`, `berserk`, `classroom of the elite` to get new links.
-4. **Project names**: Feel free to rename the featured projects and update their links.
+2. **Replace social links**: Update `yourhandle`, `yourprofile`, `youremail@example.com`.
+3. **GIFs not loading?** If any GIF doesn't show, right-click on the broken image, open in new tab – if it's a dead link, replace it with a fresh one from [GIPHY](https://giphy.com/search/jujutsu-kaisen) or [Tenor](https://tenor.com/search/jujutsu-kaisen-gifs). Or download your favorite GIFs and host them in your repo (see below).
+4. **Host GIFs yourself** (most reliable):
+   - Create an `assets` folder in your repo.
+   - Download GIFs (e.g., from GIPHY) and place them inside `assets/`.
+   - Replace the URLs with `./assets/your-gif.gif`.
 
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/-rVq3v6C5cAAAAAC/gojo-satoru-jjk.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100%"/>
 </p>
 
 <p align="center">
@@ -153,7 +156,7 @@ Like Ayanokōji, I calculate everything behind the scenes:
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/8KGI217gJ-sAAAAC/guts-berserk.gif" width="150"/>
-  <img src="https://media1.tenor.com/m/0B7lP0C-Fn8AAAAC/ayanokoji-kiyotaka-classroom-of-the-elite.gif" width="150"/>
-  <img src="https://media1.tenor.com/m/2w_9oP7R4-8AAAAC/gojo-anime.gif" width="150"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="150"/>
 </p>
