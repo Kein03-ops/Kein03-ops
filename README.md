@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=tilt&color=0:0f0f0f,100:0fffcf&height=200&section=header&text=Joseph%20Kein&fontSize=55&fontColor=00ffea&animation=slide"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0f0f,100:aa00ff&height=200&section=header&text=Joseph%20Kein&fontSize=55&fontColor=00ffaa&animation=glitch"/>
 </p>
 <h1 align="center">👋 Welcome to My Developer World</h1>
 
@@ -106,6 +106,8 @@ I enjoy building projects that combine **technology, creativity, and fun**.
 <p align="center">
 
 ⭐ Explore my repositories ⭐
+
+
 
 </p>
 
