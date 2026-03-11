@@ -1,23 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Joseph%20Kein&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center"> ⚔️ Devの世界へようこそ ⚔️ h1>
+<h1 align="center">👋 Welcome to My Developer World</h1>
 
 <p align="center">
 🎮 Gamer | 🎌 Anime Lover | 💻 Software Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Web+Developer;Anime+Inspired+Creator;Future+Software+Engineer"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSoDr54W9M3uSBiTST/giphy.gif" alt="Anime GIF" />
 </p>
-
 ---
 
 # 🌌 About Me
-<img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSoDr54W9M3uSBiTST/giphy.gif/>
+
 ```yaml
-Name: ORIGINO
+Name: Joseph Kein
 Location: Earth 🌍
-Focus: Mobile + Web Development + Web Dev
+Focus: Mobile + Web Development
 Hobbies: Gaming 🎮 | Anime 🎌 | Coding 💻
 Goal: Become a top software engineer
 ```
