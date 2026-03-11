@@ -53,3 +53,47 @@ public class SailorGuardian {
         Console.WriteLine($"{Name} of {Planet}… transform!");
     }
 }
+
+### 🔥 Java – *Dragon Slayer Style*
+public class DragonSlayer {
+    private String element;
+    
+    public DragonSlayer(String element) {
+        this.element = element;
+    }
+    
+    public void roar() {
+        System.out.println(element.toUpperCase() + " DRAGON ROAR!");
+    }
+}
+
+### 🎨 HTML/CSS – *Hero Card*
+<div class="hero-card">
+  <h2>Deku</h2>
+  <p>Quirk: One For All</p>
+</div>
+<style>
+.hero-card {
+  background: linear-gradient(145deg, #6a1b9a, #9c4dca);
+  border-radius: 20px;
+  padding: 20px;
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+  box-shadow: 0 8px 15px rgba(0,0,0,0.3);
+}
+</style>
+
+### 📱 Flutter – *Pikachu Widget*
+class PikachuWidget extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      child: Text('Pika Pika!', style: TextStyle(fontSize: 30)),
+      decoration: BoxDecoration(
+        color: Colors.yellow,
+        borderRadius: BorderRadius.circular(20),
+      ),
+      padding: EdgeInsets.all(16),
+    );
+  }
+}
