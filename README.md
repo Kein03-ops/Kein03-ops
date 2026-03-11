@@ -9,7 +9,7 @@
 <h3 align="center">Jujutsu Sorcerer × Berserk Struggler × Elite Strategist · Student Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5dW1rejRqenc0M2pjOGNkeG4zZzlwOXFsbmVjdDdpa2F6bDZmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PzmwZmvqZA191oqu3L/giphy.gif" width="200" style="border-radius: 10px;"/>
   <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="200" style="border-radius: 10px;"/>
   <img src="https://media.giphy.com/media/l0MYEqE4jqM7T3lQc/giphy.gif" width="200" style="border-radius: 10px;"/>
 </p>
