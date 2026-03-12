@@ -40,9 +40,12 @@
   <code>➜  cyber-repo git log --pretty=format:"%h - %an, %ar : %s" -5</code>
 </p>
 
-```bash
+bash
 * a1b2c3d - CyberStudent, 2 hours ago : Merge pull request #42 from feature/aes-encryption
 * e4f5g6h - CyberStudent, 5 hours ago : Add AES-256-GCM to data at rest
 * i7j8k9l - CyberStudent, 2 days ago   : Patch XSS vector in input sanitizer
 * m0n1o2p - CyberStudent, 3 days ago   : Implement biometric login (fingerprint)
 * q3r4s5t - CyberStudent, 1 week ago   : Initialize project with cyber core
+
+📊 GITHUB CYBER METRICS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" alt="GitHub stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub streak" width="48%" /> </p><!-- SECOND GIF (BOTTOM BANNER) --><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Hacker typing on multiple screens"/>
