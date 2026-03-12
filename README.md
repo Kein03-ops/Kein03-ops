@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ3bWY5N3hkb3gzcWxnaTgwcnNkeDFtbXFqM3dndmF5dXk2aWZteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UulCTHzdQ6B9bQfh9r/giphy.gif" width="40" alt="Matrix code rain"/>
-  ⚡ CYBER STUDENT ARSENAL ⚡
+  ⚡ アニメ・コード ⚡
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ3bWY5N3hkb3gzcWxnaTgwcnNkeDFtbXFqM3dndmF5dXk2aWZteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UulCTHzdQ6B9bQfh9r/giphy.gif" width="40" alt="Matrix code rain"/>
 </h1>
 
