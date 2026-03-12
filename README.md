@@ -1,29 +1,48 @@
-# ⚡ アニメ・コード ⚡  
-### *where code meets anime*
+<h1 align="center">
+  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="40" alt="Matrix code rain"/>
+  ⚡ CYBER STUDENT ARSENAL ⚡
+  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="40" alt="Matrix code rain"/>
+</h1>
 
-![GitHub release](https://img.shields.io/badge/version-1.0.0-ff69b4.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Hello+world...;I'm+a+cyber+enthusiast;HTML%2FCSS+%7C+Flutter+%7C+C%23+%7C+Java;Building+secure+code" alt="Typing SVG" />
+</p>
 
----
-
-## 🌸 The Story
-> A collection of simple, anime‑themed code snippets for beginners who love both programming and Japanese pop culture. No complex stuff – just pure fun!
-
----
-
-## ✨ Features
-- 🎴 **Beginner friendly** – easy to understand examples.
-- ⚡ **Multiple languages** – Python, HTML/CSS, Java and more.
-- 🐱‍👤 **Anime spirit** – every snippet has a touch of your favorite shows.
+<!-- FIRST GIF (CYBER BANNER) -->
+<img src="https://media.giphy.com/media/l0MYt5jH6gkTWm8qo/giphy.gif" width="100%" alt="Cyber city banner"/>
 
 ---
 
-## 🚀 Getting Started
+## 🛡️ LANGUAGES MASTERED
+
+> *"Code is like a spell – write it carefully, or face the consequences."*
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/>
+</p>
+
+| Language | Proficiency | Cyber Use Case |
+|----------|-------------|----------------|
+| HTML/CSS | ████████░░  | Building secure front‑end interfaces |
+| Flutter  | ███████░░░  | Cross‑platform mobile & desktop apps |
+| C#       | ████████░░  | Backend services & encryption tools |
+| Java     | ███████░░░  | Secure Android apps & network tools |
+
+---
+
+## 🔐 LATEST COMMITS (CYBER LOG)
+
+<p align="center">
+  <code>➜  cyber-repo git log --pretty=format:"%h - %an, %ar : %s" -5</code>
+</p>
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/anime-code.git
-
-# Enter the folder
-cd anime-code
+* a1b2c3d - CyberStudent, 2 hours ago : Merge pull request #42 from feature/aes-encryption
+* e4f5g6h - CyberStudent, 5 hours ago : Add AES-256-GCM to data at rest
+* i7j8k9l - CyberStudent, 2 days ago   : Patch XSS vector in input sanitizer
+* m0n1o2p - CyberStudent, 3 days ago   : Implement biometric login (fingerprint)
+* q3r4s5t - CyberStudent, 1 week ago   : Initialize project with cyber core
