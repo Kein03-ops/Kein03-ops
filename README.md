@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="40" alt="Matrix code rain"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ3bWY5N3hkb3gzcWxnaTgwcnNkeDFtbXFqM3dndmF5dXk2aWZteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UulCTHzdQ6B9bQfh9r/giphy.gif" width="40" alt="Matrix code rain"/>
   ⚡ CYBER STUDENT ARSENAL ⚡
-  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="40" alt="Matrix code rain"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ3bWY5N3hkb3gzcWxnaTgwcnNkeDFtbXFqM3dndmF5dXk2aWZteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UulCTHzdQ6B9bQfh9r/giphy.gif" width="40" alt="Matrix code rain"/>
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <!-- FIRST GIF (CYBER BANNER) -->
-<img src="https://media.giphy.com/media/l0MYt5jH6gkTWm8qo/giphy.gif" width="100%" alt="Cyber city banner"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ3bWY5N3hkb3gzcWxnaTgwcnNkeDFtbXFqM3dndmF5dXk2aWZteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UulCTHzdQ6B9bQfh9r/giphy.gif" width="100%" alt="Cyber city banner"/>
 
 ---
 
@@ -48,4 +48,4 @@ bash
 * q3r4s5t - CyberStudent, 1 week ago   : Initialize project with cyber core
 
 📊 GITHUB CYBER METRICS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" alt="GitHub stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub streak" width="48%" /> </p><!-- SECOND GIF (BOTTOM BANNER) --><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Hacker typing on multiple screens"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" alt="GitHub stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub streak" width="48%" /> </p><!-- SECOND GIF (BOTTOM BANNER) --><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTEwZ2htcThxczBndzV6YXFhdWNucnU5NjFmcXVmMjUwNjVjMjM4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9P6EzVR5a5jR2ARgX/giphy.gif" width="100%" alt="Hacker typing on multiple screens"/>
